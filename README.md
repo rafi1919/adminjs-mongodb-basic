@@ -1,0 +1,1 @@
+# adminjs-mongodb-basic
